@@ -1,1 +1,1 @@
-sale_project projet pour analyser le vent des produit en utilison python   qui a cette bibloitheque : numpy matplotlib panda et seaborn
+sales_project : projet pour générer, analyser et visualiser des données de ventes mensuelles avec Python en utilisant les bibliothèques NumPy, Pandas, Matplotlib et Seaborn
